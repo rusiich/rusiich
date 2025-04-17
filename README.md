@@ -40,7 +40,6 @@ Regression, Classification, Cross-validation, Feature Engineering, Hyperparamete
 ## 📬 Let's Connect!
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rusiich)  
-📧 Email: <valter.85@mail.ru>  
 **Open to work** — actively looking for roles in Data Science / ML 
 
 ---
