@@ -1,48 +1,47 @@
-# 👋 Hi, I'm Ruslan
+# 👋 Привет, я Руслан
 
-🎯 **Data Scientist | Machine Learning Enthusiast | Open to Opportunities**  
-📍 Moscow, Russia  
-💼 Currently improving skills via Yandex.Practicum  
-📚 Passionate about solving real-world problems with data
-
----
-
-## 🧠 About Me
-
-I’m transitioning into Data Science with a strong analytical background and deep motivation to solve business problems using data. My goal is to become a highly competent specialist in machine learning and AI.
-
-I'm currently studying at [Yandex.Practicum](https://practicum.yandex.ru/) in the Data Science track and applying my skills at the [Territory Development Fund](https://фрт.рф), where I work on practical data-related tasks and contribute to the organization's mission through analytics and process optimization.
-
-💡 **Why Data Science?**  
-I love turning complex data into clear insights and automating solutions. Data Science combines logic, creativity, and impact — and that inspires me daily.
-
-🛠 **Next goals:**  
-- Find a remote data role to grow and make an impact  
+🎯 **Data Scientist | Специалист по машинному обучению | Открыт к предложениям**  
+📍 Москва, Россия  
+💼 Развиваюсь в сфере Data Science через обучение в Яндекс.Практикуме  
+📚 Увлечён решением реальных задач с помощью данных
 
 ---
 
-## 🔧 Skills and Tools
+## 🧠 Немного обо мне
 
-**Languages:**  
+Я делаю карьерный переход в Data Science с крепкой аналитической базой и большой мотивацией решать бизнес-задачи с помощью данных. Моя цель — стать высококвалифицированным специалистом в области машинного обучения и искусственного интеллекта.
+
+Сейчас я обучаюсь на курсе [Data Science от Яндекс.Практикума](https://practicum.yandex.ru/) и применяю полученные знания в работе в [Фонде развития территорий](https://фрт.рф), где решаю прикладные задачи, связанные с аналитикой и оптимизацией процессов.
+
+💡 **Почему Data Science?**  
+Data Science объединяет логику, креатив и реальный эффект. Мне нравится превращать сложные данные в понятные выводы и автоматизировать рутинные процессы — это вдохновляет каждый день.
+
+🛠 **Мои ближайшие цели:**  
+- Найти удалённую позицию в сфере Data Science, где смогу расти и приносить пользу  
+
+---
+
+## 🔧 Навыки и инструменты
+
+**Языки программирования:**  
 `Python`, `SQL`
 
-**Libraries & Frameworks:**  
+**Библиотеки и фреймворки:**  
 `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `XGBoost`, `LightGBM`, `CatBoost`, `Statsmodels`, `SciPy`
 
-**Databases & Tools:**  
+**Базы данных и инструменты:**  
 `PostgreSQL`, `SQLite`, `Jupyter`, `Tableau`, `Power BI`, `Git`, `Docker`, `MLflow`
 
-**ML Techniques:**  
-Regression, Classification, Cross-validation, Feature Engineering, Hyperparameter Tuning, Model Deployment
+**Методы машинного обучения:**  
+Регрессия, классификация, кросс-валидация, feature engineering, подбор гиперпараметров, развёртывание моделей
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rusiich)  
-**Open to work** — actively looking for roles in Data Science / ML 
+**Готов к новым вызовам** — активно ищу возможности в сфере Data Science / ML  
 
 ---
 
-> _"Data is the new oil — I want to help refine it into actionable insight."_
-
+> _«Данные — это новая нефть. Я хочу помочь превращать их в ценные инсайты.»_
